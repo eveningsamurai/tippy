@@ -19,6 +19,7 @@ Additional:
 
 * [x] Additional: Making sure the keyboard is always visible and setting the bill amount text field is always the first responder by calling it from 'viewDidAppear'
 * [x] Additional: Theming the Settings page, allowing the user to switch between the default, light and dark themes. Choosing the theme changes the view background and tint color
+* [x] Additional: Added custom icon for the app
 
 ## Walkthrough of all user stories
 
