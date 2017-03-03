@@ -10,7 +10,7 @@ Completed:
 * [x] Required: Settings page to change the default tip percentage.
 * [ ] Optional: UI animations
 * [ ] Optional: Remembering the bill amount across app restarts (if <10mins)
-* [ ] Optional: Using locale-specific currency and currency thousands separators.
+* [x] Optional: Using locale-specific currency and currency thousands separators.
 * [x] Additional: Making sure the keyboard is always visible and the bill amount is always the first responder
 * [ ] Additional: Theming the Settings page like the main application page
-* [ ] Additional: Also remembering the tip percentage across app restarts
+* [x] Additional: Remembering the tip percentage across app restarts
