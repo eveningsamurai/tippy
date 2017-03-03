@@ -52,6 +52,7 @@ class ViewController: UIViewController {
     @IBAction func calculateTip_TextField(_ sender: Any) {
         let currencyFormatter = NumberFormatter()
         currencyFormatter.numberStyle = .currency
+        currencyFormatter.locale = Locale.current
         let percentFormatter = NumberFormatter()
         percentFormatter.numberStyle = .percent
 
