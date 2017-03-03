@@ -22,6 +22,8 @@ Additional:
 
 ## Walkthrough of all user stories
 
-![Video Walkthrough](tip_calculator_animation.gif)
+Walkthrough: General                                |  Walkthrough: Locales, app restarts
+:--------------------------------------------------:|:---------------------------------------------------:
+![Video Walkthrough](tip_calculator_animation.gif)  |  ![Video walkthrough](tip_calculator_animation2.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
